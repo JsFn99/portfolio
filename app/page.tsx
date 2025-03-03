@@ -67,11 +67,11 @@ export default function Home() {
                 My expertise includes machine learning, deep learning, and backend development, working with technologies like TensorFlow, FastAPI, and LangChain.
               </p>
               <p className="text-gray-300 mb-6">
-                Currently, I’m pursuing a Master’s in Applied AI, refining my skills in building scalable AI solutions. My work spans AI-powered solutions,
+                Currently, I am pursuing a Master’s in Applied AI, refining my skills in building scalable AI solutions. My work spans AI-powered solutions,
                 full-stack development, and Data Science, and I also run a blog where I explore topics at the intersection of technology, philosophy, and society.
               </p>
               <p className="text-gray-300 mb-6">
-                When I’m not coding, I’m either writing, training, or experimenting with new ideas.
+                When I am not coding, I am either writing, training, or experimenting with new ideas.
               </p>
               <div className="flex flex-wrap gap-2">
                 {[
@@ -186,7 +186,7 @@ export default function Home() {
           <h3 className="text-xl font-semibold text-white mb-4">React Native</h3>
           <p className="text-gray-400 mb-4">Mastered React Native for building mobile applications for both iOS and Android.</p>
           <div className="flex items-center gap-2 mb-4">
-            <img src="https://yt3.googleusercontent.com/ytc/AIdro_n94STjDykDksYxhfE4RhM1BT4R2H69tIAHav8jrey03qQ=s900-c-k-c0x00ffffff-no-rj" alt="Meta" className="w-8 h-8" />
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPQEF2XXwt44laODjvpEpvgUlajKbkdmBeEw&s" alt="Meta" className="w-8 h-8" />
             <p className="text-gray-500">Meta</p>
           </div>
           <a href="https://www.coursera.org/account/accomplishments/certificate/your-certificate-id" target="_blank" className="text-blue-400 hover:text-blue-500">View Certificate</a>
@@ -197,7 +197,7 @@ export default function Home() {
           <h3 className="text-xl font-semibold text-white mb-4">Building Scalable Java Microservices with Spring Boot and Spring Cloud</h3>
           <p className="text-gray-400 mb-4">Built scalable and reliable Java microservices using Spring Boot and Spring Cloud technologies.</p>
           <div className="flex items-center gap-2 mb-4">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPQEF2XXwt44laODjvpEpvgUlajKbkdmBeEw&s" alt="Google Cloud" className="w-8 h-8" />
+            <img src="https://yt3.googleusercontent.com/ytc/AIdro_n94STjDykDksYxhfE4RhM1BT4R2H69tIAHav8jrey03qQ=s900-c-k-c0x00ffffff-no-rj" alt="Google Cloud" className="w-8 h-8" />
             <p className="text-gray-500">Google Cloud</p>
           </div>
           <a href="https://www.coursera.org/account/accomplishments/certificate/your-certificate-id" target="_blank" className="text-blue-400 hover:text-blue-500">View Certificate</a>
