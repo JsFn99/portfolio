@@ -68,7 +68,7 @@ export default function Home() {
               </p>
               <p className="text-gray-300 mb-6">
                 Currently, I’m pursuing a Master’s in Applied AI, refining my skills in building scalable AI solutions. My work spans AI-powered solutions,
-                full-stack development, and technical writing, and I also run a blog where I explore topics at the intersection of technology, philosophy, and society.
+                full-stack development, and Data Science, and I also run a blog where I explore topics at the intersection of technology, philosophy, and society.
               </p>
               <p className="text-gray-300 mb-6">
                 When I’m not coding, I’m either writing, training, or experimenting with new ideas.
